@@ -6,8 +6,8 @@ theme:
 nav:
    - 河南: index.md
    - 博客:
-       - Writing your docs:
-       - Styling your docs:
+       # - Writing your docs:
+       # - Styling your docs:
    - 关于:
        - License: about/license.md
        - Release Notes: about/release-notes.md
