@@ -2,7 +2,7 @@ site_name: My Docs
 theme:
   name: 'material'
   nav:
-    - 河南: index.md
+    - 河南: index.md0
     - 使用手册:
         - Writing your docs: user-guide/writing-your-docs.md
         - Styling your docs: user-guide/styling-your-docs.md
