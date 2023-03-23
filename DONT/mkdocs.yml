@@ -9,5 +9,4 @@ nav:
         - Writing your docs: mystyle/1.index.md
         - Styling your docs: mystyle/2.index.md
     - 关于:
-
         - Release Notes: about/release-notes.md
