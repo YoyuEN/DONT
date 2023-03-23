@@ -4,6 +4,10 @@ theme:
   palette:
     primary: cyan
 nav:
+    - 数据结构学习:
+        - 线性表:
+            -01: SingleLinkList.md
+            -02: DoubleLinkList.md
     - 河南: index.md
     - 博客:
         - Writing your docs: mystyle/1.index.md
