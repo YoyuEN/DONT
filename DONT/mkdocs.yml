@@ -4,10 +4,9 @@ theme:
   palette:
     primary: cyan
 nav:
-    - 数据结构学习:
-        - 线性表:
-    - 河南:
-        - smile:
+#    - 数据结构学习:
+#        - 线性表:
+#    - 河南:
     - 博客:
         - Writing your docs: mystyle/1.index.md
         - Styling your docs: mystyle/2.index.md
