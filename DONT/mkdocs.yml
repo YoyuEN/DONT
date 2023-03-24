@@ -7,7 +7,7 @@ nav:
     - 学习:
         - 01: index.md
     - 河南:
-        - smile:
+        - smile: Love/friends.md
     - 博客:
         - Writing your docs: style/1.index.md
         - Styling your docs: Love/Dictum.md
