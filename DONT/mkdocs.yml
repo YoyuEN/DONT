@@ -11,5 +11,6 @@ nav:
     - 博客:
         - Writing your docs: style/1.index.md
         - Styling your docs: Love/Dictum.md
+        - class notes:  style/就业指导.md
     - 关于:
         - Release Notes: about/release-notes.md
